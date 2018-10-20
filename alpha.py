@@ -1,8 +1,8 @@
 a=input()
 def alpha(a):
     if a>='A' and a<='Z' or a>='a' and a<='z':
-        print("Alphabets")
+        print("Alphabet")
     else:
-        print("invalid")
+        print("No")
 alpha(a)
     
