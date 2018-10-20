@@ -1,3 +1,5 @@
 a=int(input())
-for i in range(0,a):
-    print("Hello")
+def pr(a):
+    for i in range(0,a):
+        print("Hello")
+pr(a)
